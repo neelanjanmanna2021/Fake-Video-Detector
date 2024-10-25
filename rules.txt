@@ -9,3 +9,6 @@ Choose the video from the GUI
 For original video data set record your own video from the front camera of your laptop or desktop analyse that
 
 Look for deepfake videos on the internet
+
+
+Scan with malware scanners if you donot trust .
